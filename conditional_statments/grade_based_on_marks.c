@@ -1,6 +1,7 @@
 
 #include <stdio.h>
-int main() {
+int main()
+{
     int marks;
     printf("Enter marks (0-100): ");
     scanf("%d", &marks);
